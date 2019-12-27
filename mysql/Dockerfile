@@ -1,0 +1,2 @@
+FROM mariadb:latest
+EXPOSE 3333 33060 33061 3306

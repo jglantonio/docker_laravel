@@ -23,8 +23,8 @@ services:
     environment:
       - MYSQL_ROOT_USER=root
       - MYSQL_ROOT_PASSWORD=xxxx
-      - MYSQL_DATABASE=cmsofuscado
-      - MYSQL_USER=cmsofuscado
+      - MYSQL_DATABASE=database
+      - MYSQL_USER=user
       - MYSQL_PASSWORD=xxxx
     networks:
       net:
